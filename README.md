@@ -6,9 +6,9 @@ A sample application illustrating Android development best practices with Androi
 Screenshots
 -----------
 
-![List of plants](screenshots/phone_plant_list.png "A list of plants")
-![Plant details](screenshots/phone_plant_detail.png "Details for a specific plant")
-![My Garden](screenshots/phone_my_garden.png "Plants that have been added to your garden")
+![Update Screen](screenshots/device-2020-10-09-163840.png "Update Task")
+![Plant details](screenshots/device-2020-10-09-163855.png "Details for a specific plant")
+![My Garden](screenshots/device-2020-10-09-163815.png "Plants that have been added to your garden")
 
 Libraries Used
 --------------
