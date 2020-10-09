@@ -7,8 +7,8 @@ Screenshots
 -----------
 
 ![Update Screen](screenshots/device-2020-10-09-163840.png "Update Task")
-![Plant details](screenshots/phone_plant_detail.png "Details for a specific plant")
-![My Garden](screenshots/phone_my_garden.png "Plants that have been added to your garden")
+![Plant details](screenshots/device-2020-10-09-163855.png "Details for a specific plant")
+![My Garden](screenshots/device-2020-10-09-163815.png "Plants that have been added to your garden")
 
 Libraries Used
 --------------
